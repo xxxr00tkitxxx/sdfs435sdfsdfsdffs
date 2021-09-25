@@ -1,0 +1,4 @@
+inicio{
+"host":"FE62DF232214221D110E046BEF54D840",
+"porta":"0124"
+}fim
